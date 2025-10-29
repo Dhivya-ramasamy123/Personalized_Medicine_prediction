@@ -1,23 +1,23 @@
 
-# 🩺 Disease Prediction Web App
+# Disease Prediction Web App
 
 A **Flask-based Machine Learning web application** that predicts possible diseases based on the symptoms entered by the user.  
 The system also provides **disease descriptions, precautions, medications, diet suggestions, and recommended workouts** to help users understand their condition better.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧠 Predict disease from given symptoms using a pre-trained ML model  
-- 📋 Provides detailed disease **description**  
-- 💊 Suggests suitable **medications** and **precautions**  
-- 🥗 Recommends healthy **diet plans**  
-- 🏋️‍♂️ Suggests relevant **workouts**  
-- 🌐 Interactive and simple **Flask web interface**
+- Predict disease from given symptoms using a pre-trained ML model  
+- Provides detailed disease **description**  
+- Suggests suitable **medications** and **precautions**  
+- Recommends healthy **diet plans**  
+- Suggests relevant **workouts**  
+- Interactive and simple **Flask web interface**
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 ```
 Disease-Prediction-App/
@@ -46,7 +46,7 @@ Disease-Prediction-App/
 
 ---
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 Follow the steps below to run the project locally:
 
@@ -77,7 +77,7 @@ Visit **http://127.0.0.1:5000/** to use the web app.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The user enters symptoms (comma-separated) — e.g.  
    ```
@@ -95,7 +95,7 @@ Visit **http://127.0.0.1:5000/** to use the web app.
 
 ---
 
-## 📊 Machine Learning Model
+## Machine Learning Model
 
 - **Model Used:** Support Vector Classifier (SVC)  
 - **Framework:** scikit-learn  
